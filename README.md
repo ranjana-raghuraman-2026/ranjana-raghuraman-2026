@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ranjana 👋
 
-<!--
-**ranjana-raghuraman-2026/ranjana-raghuraman-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Program Manager with 20+ years in Banking & Technology
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Transitioning into AI & Machine Learning (IIT Kharagpur Certified)
+- Expertise in Program Management & Cloud Transformation
+- Interested in AI-driven business solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 AI Projects
+- Banking Chatbot (NLP)
+- Loan Risk Prediction Model
+- Customer Segmentation (Clustering)
+
+## 🔹 Skills
+- Machine Learning (Basics)
+- NLP & Chatbots
+- AWS, GCP
+- Agile & Program Management
+
+## 🔹 Goal
+To drive AI transformation in enterprise environments
